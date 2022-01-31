@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(13, 23, 34);
+}
+
+h3{
+    color: white;
+    font-size: 30px;
+}
+.main-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+img{
+    height: 150px;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    width: 450px;
+    border: 2px solid white;
+    border-radius: 10px;
+    overflow: hidden;
+}
